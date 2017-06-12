@@ -21,6 +21,7 @@ class myfirstjavacode{
 
 	System.out.println("roll no student is : "+ s1.id);
 	System.out.println("name of the student is : "+ s1.name);
+	System.out.println("name of the student is : "+ s1.name);
 
 	} 
 }  
